@@ -1,4 +1,5 @@
 # lojavirtual
 
-texto alterado no repositório local. /br
-texto alterado no repositório remoto (github)
+texto alterado no repositório local.
+
+texto alterado no repositório remoto (github).
